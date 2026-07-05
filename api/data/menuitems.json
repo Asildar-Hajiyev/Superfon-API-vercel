@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "icon": "FaCreditCard",
+    "label": "Hədiyyə kartları",
+    "hasArrow": false
+  },
+  {
+    "id": 2,
+    "icon": "FaHeadphonesSimple",
+    "label": "Telefon Aksesuarları",
+    "hasArrow": true
+  },
+  {
+    "id": 3,
+    "icon": "FiWatch",
+    "label": "Saatlar",
+    "hasArrow": true
+  },
+  {
+    "id": 4,
+    "icon": "FaMusic",
+    "label": "Audio və TV aksesuarlar",
+    "hasArrow": true
+  },
+  {
+    "id": 5,
+    "icon": "PiCarProfileThin",
+    "label": "Avtomobil aksesuarları",
+    "hasArrow": true
+  },
+  {
+    "id": 6,
+    "icon": "FaRegObjectUngroup",
+    "label": "Kiçik məişət texnikası",
+    "hasArrow": true
+  },
+  {
+    "id": 7,
+    "icon": "FiWatch",
+    "label": "Digər",
+    "hasArrow": true
+  },
+  {
+    "id": 8,
+    "icon": null,
+    "label": "Brendlər"
+  }
+]
