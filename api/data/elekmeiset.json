@@ -4,265 +4,650 @@
     "title": "Wireless Bluetooth qulaqlıq, gurultu önləyici, uzun batareya ömrü",
     "price": 45.99,
     "image": "https://picsum.photos/id/1/500/500.jpg",
-    "isNew": true
+    "isNew": true,
+    "subImages": [
+      "https://picsum.photos/id/1/500/500.jpg",
+      "https://picsum.photos/id/41/500/500.jpg",
+      "https://picsum.photos/id/81/500/500.jpg",
+      "https://picsum.photos/id/121/500/500.jpg"
+    ],
+    "productCode": "114281",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Qara",
+      "Uyğunluq": "Universal (Bluetooth 5.0+)",
+      "Material": "Plastik + Deri təqlidi yastıqcıqlar",
+      "Gurultu önləyici (ANC)": "Var",
+      "Batareya ömrü": "30 saat",
+      "Çəki": "250 q"
+    }
   },
   {
     "id": 2,
     "title": "Ağıllı saat Smart Watch, AMOLED ekran, ürək döyüntüsü ölçən",
-    "price": 89.90,
+    "price": 89.9,
     "image": "https://picsum.photos/id/2/500/500.jpg",
-    "isNew": true
+    "isNew": true,
+    "subImages": [
+      "https://picsum.photos/id/2/500/500.jpg",
+      "https://picsum.photos/id/42/500/500.jpg",
+      "https://picsum.photos/id/82/500/500.jpg",
+      "https://picsum.photos/id/122/500/500.jpg"
+    ],
+    "productCode": "114282",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Gümüşü",
+      "Uyğunluq": "Android/iOS",
+      "Ekran növü": "AMOLED",
+      "Su keçirməzlik": "IP68",
+      "Ürək döyüntüsü ölçən": "Var",
+      "Batareya ömrü": "7 gün"
+    }
   },
   {
     "id": 3,
     "title": "Powerbank 20000 mAh, 22.5W sürətli şarj dəstəyi",
-    "price": 35.00,
+    "price": 35.0,
     "image": "https://picsum.photos/id/3/500/500.jpg",
-    "isNew": false
+    "isNew": false,
+    "subImages": [
+      "https://picsum.photos/id/3/500/500.jpg",
+      "https://picsum.photos/id/43/500/500.jpg",
+      "https://picsum.photos/id/83/500/500.jpg",
+      "https://picsum.photos/id/123/500/500.jpg"
+    ],
+    "productCode": "114283",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Qara",
+      "Tutum": "20000 mAh",
+      "Giriş": "Type-C, Micro USB",
+      "Çıxış": "22.5W (Sürətli şarj)",
+      "Port sayı": "2x USB-A, 1x Type-C",
+      "Çəki": "400 q"
+    }
   },
   {
     "id": 4,
     "title": "Mexaniki Gaming klaviatura, RGB işıqlandırmalı, göy sviç",
-    "price": 65.50,
+    "price": 65.5,
     "image": "https://picsum.photos/id/4/500/500.jpg",
-    "isNew": true
+    "isNew": true,
+    "subImages": [
+      "https://picsum.photos/id/4/500/500.jpg",
+      "https://picsum.photos/id/44/500/500.jpg",
+      "https://picsum.photos/id/84/500/500.jpg",
+      "https://picsum.photos/id/124/500/500.jpg"
+    ],
+    "productCode": "114284",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Qara/RGB",
+      "Sviç növü": "Göy mexaniki sviç",
+      "Bağlantı": "USB (kabelli)",
+      "İşıqlandırma": "RGB, tənzimlənə bilən",
+      "Material": "ABS plastik + Alüminium panel"
+    }
   },
   {
     "id": 5,
     "title": "Simsiz oyun siçanı (Gaming Mouse), 16000 DPI, erqonomik dizayn",
-    "price": 42.00,
+    "price": 42.0,
     "image": "https://picsum.photos/id/5/500/500.jpg",
-    "isNew": false
+    "isNew": false,
+    "subImages": [
+      "https://picsum.photos/id/5/500/500.jpg",
+      "https://picsum.photos/id/45/500/500.jpg",
+      "https://picsum.photos/id/85/500/500.jpg",
+      "https://picsum.photos/id/125/500/500.jpg"
+    ],
+    "productCode": "114285",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Qara",
+      "DPI": "16000 (tənzimlənə bilən)",
+      "Bağlantı": "2.4GHz simsiz",
+      "Batareya ömrü": "40 saat",
+      "Düymə sayı": "6"
+    }
   },
   {
     "id": 6,
     "title": "Portativ Bluetooth dinamik, suya davamlı IPX7, güclü bas",
-    "price": 55.00,
+    "price": 55.0,
     "image": "https://picsum.photos/id/6/500/500.jpg",
-    "isNew": true
+    "isNew": true,
+    "subImages": [
+      "https://picsum.photos/id/6/500/500.jpg",
+      "https://picsum.photos/id/46/500/500.jpg",
+      "https://picsum.photos/id/86/500/500.jpg",
+      "https://picsum.photos/id/126/500/500.jpg"
+    ],
+    "productCode": "114286",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Qara",
+      "Su keçirməzlik": "IPX7",
+      "Bağlantı": "Bluetooth 5.0",
+      "Batareya ömrü": "12 saat",
+      "Çıxış gücü": "20W"
+    }
   },
   {
     "id": 7,
     "title": "Type-C USB xarici sərt disk (SSD) 1TB, yüksək sürətli data ötürülməsi",
-    "price": 120.00,
+    "price": 120.0,
     "image": "https://picsum.photos/id/7/500/500.jpg",
-    "isNew": true
+    "isNew": true,
+    "subImages": [
+      "https://picsum.photos/id/7/500/500.jpg",
+      "https://picsum.photos/id/47/500/500.jpg",
+      "https://picsum.photos/id/87/500/500.jpg",
+      "https://picsum.photos/id/127/500/500.jpg"
+    ],
+    "productCode": "114287",
+    "inStock": true,
+    "specifications": {
+      "Tutum": "1TB",
+      "Bağlantı": "Type-C (USB 3.1)",
+      "Oxuma sürəti": "550 MB/s",
+      "Material": "Alüminium korpus",
+      "Çəki": "45 q"
+    }
   },
   {
     "id": 8,
     "title": "Maşın üçün telefon tutacağı, maqnitli, 360 dərəcə dönən",
-    "price": 12.50,
+    "price": 12.5,
     "image": "https://picsum.photos/id/8/500/500.jpg",
-    "isNew": false
+    "isNew": false,
+    "subImages": [
+      "https://picsum.photos/id/8/500/500.jpg",
+      "https://picsum.photos/id/48/500/500.jpg",
+      "https://picsum.photos/id/88/500/500.jpg",
+      "https://picsum.photos/id/128/500/500.jpg"
+    ],
+    "productCode": "114288",
+    "inStock": false,
+    "specifications": {
+      "Rəng": "Qara",
+      "Bağlantı növü": "Maqnitli",
+      "Fırlanma": "360 dərəcə",
+      "Quraşdırma yeri": "Ventilyasiya/Şüşə"
+    }
   },
   {
     "id": 9,
     "title": "4K Ultra HD Veb kamera, daxili mikrofon ilə, dərslər və strim üçün",
-    "price": 78.90,
+    "price": 78.9,
     "image": "https://picsum.photos/id/9/500/500.jpg",
-    "isNew": true
+    "isNew": true,
+    "subImages": [
+      "https://picsum.photos/id/9/500/500.jpg",
+      "https://picsum.photos/id/49/500/500.jpg",
+      "https://picsum.photos/id/89/500/500.jpg",
+      "https://picsum.photos/id/129/500/500.jpg"
+    ],
+    "productCode": "114289",
+    "inStock": true,
+    "specifications": {
+      "Çözünürlük": "4K Ultra HD",
+      "Mikrofon": "Daxili, səs-küy filtrli",
+      "Bağlantı": "USB Plug & Play",
+      "Görüş bucağı": "90°"
+    }
   },
   {
     "id": 10,
     "title": "Simsiz şarj cihazı (Wireless Charger) 15W, sürətli doldurma",
-    "price": 28.00,
+    "price": 28.0,
     "image": "https://picsum.photos/id/10/500/500.jpg",
-    "isNew": false
+    "isNew": false,
+    "subImages": [
+      "https://picsum.photos/id/10/500/500.jpg",
+      "https://picsum.photos/id/50/500/500.jpg",
+      "https://picsum.photos/id/90/500/500.jpg",
+      "https://picsum.photos/id/130/500/500.jpg"
+    ],
+    "productCode": "114290",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Ağ",
+      "Güc": "15W",
+      "Uyğunluq": "Qi standartlı bütün telefonlar",
+      "Qoruma": "Həddindən artıq qızma qoruması"
+    }
   },
   {
     "id": 11,
     "title": "Halqa LED işıq (Ring Light), tripod ilə, bloggerlər üçün",
     "price": 34.99,
     "image": "https://picsum.photos/id/11/500/500.jpg",
-    "isNew": true
+    "isNew": true,
+    "subImages": [
+      "https://picsum.photos/id/11/500/500.jpg",
+      "https://picsum.photos/id/51/500/500.jpg",
+      "https://picsum.photos/id/91/500/500.jpg",
+      "https://picsum.photos/id/131/500/500.jpg"
+    ],
+    "productCode": "114291",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Ağ",
+      "Diametr": "26 sm",
+      "İşıq rejimləri": "3 rəng, 10 parlaqlıq səviyyəsi",
+      "Tripod hündürlüyü": "160 sm",
+      "Güc mənbəyi": "USB"
+    }
   },
   {
     "id": 12,
     "title": "Erqonomik noutbuk altlığı, soyuducu fanatlı, tənzimlənən hündürlük",
-    "price": 39.00,
+    "price": 39.0,
     "image": "https://picsum.photos/id/12/500/500.jpg",
-    "isNew": false
+    "isNew": false,
+    "subImages": [
+      "https://picsum.photos/id/12/500/500.jpg",
+      "https://picsum.photos/id/52/500/500.jpg",
+      "https://picsum.photos/id/92/500/500.jpg",
+      "https://picsum.photos/id/132/500/500.jpg"
+    ],
+    "productCode": "114292",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Gümüşü",
+      "Material": "Alüminium",
+      "Fanat sayı": "2 (soyuducu)",
+      "Hündürlük tənzimlənməsi": "6 səviyyə",
+      "Uyğunluq": "11-17 düym noutbuklar"
+    }
   },
   {
     "id": 13,
     "title": "Geymer qulaqlığı (Gaming Headset), 7.1 surround səs, mikrofonlu",
-    "price": 74.50,
+    "price": 74.5,
     "image": "https://picsum.photos/id/13/500/500.jpg",
-    "isNew": true
+    "isNew": true,
+    "subImages": [
+      "https://picsum.photos/id/13/500/500.jpg",
+      "https://picsum.photos/id/53/500/500.jpg",
+      "https://picsum.photos/id/93/500/500.jpg",
+      "https://picsum.photos/id/133/500/500.jpg"
+    ],
+    "productCode": "114293",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Qara/Qırmızı",
+      "Səs sistemi": "7.1 Surround",
+      "Mikrofon": "Çıxarıla bilən",
+      "Bağlantı": "USB / 3.5mm",
+      "Uyğunluq": "PC, PS4/5, Xbox"
+    }
   },
   {
     "id": 14,
     "title": "Ağıllı ev üçün Wi-Fi rozetka, taymerli və səsli idarəetmə",
     "price": 19.99,
     "image": "https://picsum.photos/id/14/500/500.jpg",
-    "isNew": false
+    "isNew": false,
+    "subImages": [
+      "https://picsum.photos/id/14/500/500.jpg",
+      "https://picsum.photos/id/54/500/500.jpg",
+      "https://picsum.photos/id/94/500/500.jpg",
+      "https://picsum.photos/id/134/500/500.jpg"
+    ],
+    "productCode": "114294",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Ağ",
+      "Bağlantı": "Wi-Fi 2.4GHz",
+      "İdarəetmə": "Mobil tətbiq + Səsli assistent",
+      "Taymer funksiyası": "Var",
+      "Maksimum yük": "2200W"
+    }
   },
   {
     "id": 15,
     "title": "Planşet və qrafik planşet üçün stilus qələm, universal",
-    "price": 25.00,
+    "price": 25.0,
     "image": "https://picsum.photos/id/15/500/500.jpg",
-    "isNew": true
+    "isNew": true,
+    "subImages": [
+      "https://picsum.photos/id/15/500/500.jpg",
+      "https://picsum.photos/id/55/500/500.jpg",
+      "https://picsum.photos/id/95/500/500.jpg",
+      "https://picsum.photos/id/135/500/500.jpg"
+    ],
+    "productCode": "114295",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Qara",
+      "Uyğunluq": "Kapasitiv ekranlı bütün planşet/telefonlar",
+      "Ucun növü": "Yumşaq disk",
+      "Batareya": "Tələb olunmur"
+    }
   },
   {
     "id": 16,
     "title": "Oyun konsolu üçün djoystik (Gamepad), simsiz, vibrasiyalı",
-    "price": 49.90,
+    "price": 49.9,
     "image": "https://picsum.photos/id/16/500/500.jpg",
-    "isNew": true
+    "isNew": true,
+    "subImages": [
+      "https://picsum.photos/id/16/500/500.jpg",
+      "https://picsum.photos/id/56/500/500.jpg",
+      "https://picsum.photos/id/96/500/500.jpg",
+      "https://picsum.photos/id/136/500/500.jpg"
+    ],
+    "productCode": "114296",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Qara",
+      "Bağlantı": "Bluetooth/2.4GHz simsiz",
+      "Vibrasiya": "Var (Dual motor)",
+      "Uyğunluq": "PC, Android, PS3",
+      "Batareya ömrü": "20 saat"
+    }
   },
   {
     "id": 17,
     "title": "USB-C Hub çoxfunksiyalı adapter, HDMI, SD kart və USB 3.0 portları",
-    "price": 44.00,
+    "price": 44.0,
     "image": "https://picsum.photos/id/17/500/500.jpg",
-    "isNew": false
+    "isNew": false,
+    "subImages": [
+      "https://picsum.photos/id/17/500/500.jpg",
+      "https://picsum.photos/id/57/500/500.jpg",
+      "https://picsum.photos/id/97/500/500.jpg",
+      "https://picsum.photos/id/137/500/500.jpg"
+    ],
+    "productCode": "114297",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Boz",
+      "Portlar": "HDMI 4K, SD/TF kart, 3x USB 3.0",
+      "Material": "Alüminium korpus",
+      "Uyğunluq": "MacBook/Windows noutbuklar"
+    }
   },
   {
     "id": 18,
     "title": "Mini fırlanan təhlükəsizlik kamerası, Wi-Fi, gecə görüntüsü ilə",
-    "price": 58.00,
+    "price": 58.0,
     "image": "https://picsum.photos/id/18/500/500.jpg",
-    "isNew": true
+    "isNew": true,
+    "subImages": [
+      "https://picsum.photos/id/18/500/500.jpg",
+      "https://picsum.photos/id/58/500/500.jpg",
+      "https://picsum.photos/id/98/500/500.jpg",
+      "https://picsum.photos/id/138/500/500.jpg"
+    ],
+    "productCode": "114298",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Ağ",
+      "Çözünürlük": "1080p Full HD",
+      "Fırlanma": "355° üfüqi, 90° şaquli",
+      "Gecə görüntüsü": "Var (infraqırmızı)",
+      "Bağlantı": "Wi-Fi 2.4GHz"
+    }
   },
   {
     "id": 19,
     "title": "Fitnes qolbaq, addımölçən, yuxu izləmə funksiyası",
-    "price": 32.50,
+    "price": 32.5,
     "image": "https://picsum.photos/id/19/500/500.jpg",
-    "isNew": false
+    "isNew": false,
+    "subImages": [
+      "https://picsum.photos/id/19/500/500.jpg",
+      "https://picsum.photos/id/59/500/500.jpg",
+      "https://picsum.photos/id/99/500/500.jpg",
+      "https://picsum.photos/id/139/500/500.jpg"
+    ],
+    "productCode": "114299",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Qara",
+      "Ekran": "OLED toxunma",
+      "Su keçirməzlik": "IP67",
+      "Funksiyalar": "Addımölçən, yuxu izləmə, nəbz ölçən",
+      "Batareya ömrü": "10 gün"
+    }
   },
   {
     "id": 20,
     "title": "Premium dəri telefon qoruyucu qabı (Case), iPhone seriyası üçün",
-    "price": 18.00,
+    "price": 18.0,
     "image": "https://picsum.photos/id/20/500/500.jpg",
-    "isNew": true
+    "isNew": true,
+    "subImages": [
+      "https://picsum.photos/id/20/500/500.jpg",
+      "https://picsum.photos/id/60/500/500.jpg",
+      "https://picsum.photos/id/100/500/500.jpg",
+      "https://picsum.photos/id/140/500/500.jpg"
+    ],
+    "productCode": "114300",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Qəhvəyi",
+      "Material": "PU dəri",
+      "Uyğunluq": "iPhone seriyası (bir neçə model)",
+      "Qoruma": "Künc zərbəyə davamlı",
+      "Kart bölməsi": "Var"
+    }
   },
   {
     "id": 21,
     "title": "Noutbuk çantası, suya davamlı qumaş, 15.6 düym üçün",
-    "price": 37.00,
+    "price": 37.0,
     "image": "https://picsum.photos/id/21/500/500.jpg",
-    "isNew": false
+    "isNew": false,
+    "subImages": [
+      "https://picsum.photos/id/21/500/500.jpg",
+      "https://picsum.photos/id/61/500/500.jpg",
+      "https://picsum.photos/id/101/500/500.jpg",
+      "https://picsum.photos/id/141/500/500.jpg"
+    ],
+    "productCode": "114301",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Qara",
+      "Material": "Su keçirməyən qumaş",
+      "Uyğunluq": "15.6 düymə qədər noutbuklar",
+      "Bölmə sayı": "3 (əsas, aksesuar, ön cib)"
+    }
   },
   {
     "id": 22,
     "title": "Sürətli avtomobil şarj cihazı, Dual USB Ports, Quick Charge 3.0",
     "price": 15.99,
     "image": "https://picsum.photos/id/22/500/500.jpg",
-    "isNew": true
+    "isNew": true,
+    "subImages": [
+      "https://picsum.photos/id/22/500/500.jpg",
+      "https://picsum.photos/id/62/500/500.jpg",
+      "https://picsum.photos/id/102/500/500.jpg",
+      "https://picsum.photos/id/142/500/500.jpg"
+    ],
+    "productCode": "114302",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Qara",
+      "Port sayı": "2x USB-A",
+      "Çıxış gücü": "Quick Charge 3.0, 18W",
+      "Uyğunluq": "12V/24V avtomobil rozetkası"
+    }
   },
   {
     "id": 23,
     "title": "Masaüstü mikrofon, səs yazma və podkastlar üçün, USB qoşulma",
-    "price": 68.00,
+    "price": 68.0,
     "image": "https://picsum.photos/id/23/500/500.jpg",
-    "isNew": true
+    "isNew": true,
+    "subImages": [
+      "https://picsum.photos/id/23/500/500.jpg",
+      "https://picsum.photos/id/63/500/500.jpg",
+      "https://picsum.photos/id/103/500/500.jpg",
+      "https://picsum.photos/id/143/500/500.jpg"
+    ],
+    "productCode": "114303",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Qara",
+      "Bağlantı": "USB",
+      "Diaframa növü": "Kondensator",
+      "İstifadə sahəsi": "Podkast, Stream, Ev studiyası",
+      "Stend": "Daxildir"
+    }
   },
   {
     "id": 24,
     "title": "Ekran təmizləyici sprey və mikrofayber dəsmal dəsti",
-    "price": 8.50,
+    "price": 8.5,
     "image": "https://picsum.photos/id/24/500/500.jpg",
-    "isNew": false
+    "isNew": false,
+    "subImages": [
+      "https://picsum.photos/id/24/500/500.jpg",
+      "https://picsum.photos/id/64/500/500.jpg",
+      "https://picsum.photos/id/104/500/500.jpg",
+      "https://picsum.photos/id/144/500/500.jpg"
+    ],
+    "productCode": "114304",
+    "inStock": false,
+    "specifications": {
+      "Tərkib": "Spirt əsaslı, ekran üçün təhlükəsiz sprey",
+      "Dəsmal növü": "Mikrofayber, 2 ədəd",
+      "Həcm": "100 ml",
+      "Uyğunluq": "Bütün ekranlar (telefon, monitor, TV)"
+    }
   },
   {
     "id": 25,
     "title": "Bluetooth Aux Adapter, avtomobil audiosistemi üçün simsiz qəbuledici",
-    "price": 14.20,
+    "price": 14.2,
     "image": "https://picsum.photos/id/25/500/500.jpg",
-    "isNew": true
+    "isNew": true,
+    "subImages": [
+      "https://picsum.photos/id/25/500/500.jpg",
+      "https://picsum.photos/id/65/500/500.jpg",
+      "https://picsum.photos/id/105/500/500.jpg",
+      "https://picsum.photos/id/145/500/500.jpg"
+    ],
+    "productCode": "114305",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Qara",
+      "Bağlantı": "Bluetooth 5.0",
+      "Çıxış": "3.5mm Aux",
+      "Mikrofon": "Daxili (hands-free üçün)",
+      "Enerji mənbəyi": "Daxili batareya (USB şarj)"
+    }
   },
   {
     "id": 26,
     "title": "Smart LED lampa, RGB rəng çalarları, mobil tətbiqlə idarəetmə",
-    "price": 22.90,
+    "price": 22.9,
     "image": "https://picsum.photos/id/26/500/500.jpg",
-    "isNew": false
+    "isNew": false,
+    "subImages": [
+      "https://picsum.photos/id/26/500/500.jpg",
+      "https://picsum.photos/id/66/500/500.jpg",
+      "https://picsum.photos/id/106/500/500.jpg",
+      "https://picsum.photos/id/146/500/500.jpg"
+    ],
+    "productCode": "114306",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Ağ korpus, RGB işıq",
+      "Güc": "9W (60W ekvivalent)",
+      "İdarəetmə": "Wi-Fi tətbiqi/Səsli assistent",
+      "Rəng rejimləri": "16 milyon rəng"
+    }
   },
   {
     "id": 27,
     "title": "Böyük Gaming Mouse Pad, rezin altlıq, tikişli kənarlar (90x40 sm)",
-    "price": 19.50,
+    "price": 19.5,
     "image": "https://picsum.photos/id/27/500/500.jpg",
-    "isNew": true
+    "isNew": true,
+    "subImages": [
+      "https://picsum.photos/id/27/500/500.jpg",
+      "https://picsum.photos/id/67/500/500.jpg",
+      "https://picsum.photos/id/107/500/500.jpg",
+      "https://picsum.photos/id/147/500/500.jpg"
+    ],
+    "productCode": "114307",
+    "inStock": true,
+    "specifications": {
+      "Ölçü": "90x40 sm",
+      "Material": "Rezin əsas + Parça üzlük",
+      "Kənar": "Tikişli, sökülməyə davamlı",
+      "Qalınlıq": "4 mm"
+    }
   },
   {
     "id": 28,
     "title": "Virtual Reallıq eynəyi (VR Box), smartfonlar üçün uyğun",
     "price": 29.99,
     "image": "https://picsum.photos/id/28/500/500.jpg",
-    "isNew": false
+    "isNew": false,
+    "subImages": [
+      "https://picsum.photos/id/28/500/500.jpg",
+      "https://picsum.photos/id/68/500/500.jpg",
+      "https://picsum.photos/id/108/500/500.jpg",
+      "https://picsum.photos/id/148/500/500.jpg"
+    ],
+    "productCode": "114308",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Qara/Ağ",
+      "Uyğunluq": "4.7-6.5 düym ekranlı telefonlar",
+      "Linza növü": "Bikonveks",
+      "Baş bağlaması": "Tənzimlənən, üzük ilə fokus"
+    }
   },
   {
     "id": 29,
     "title": "Masaüstü telefon və planşet stendi, qatlanan metal korpus",
-    "price": 11.00,
+    "price": 11.0,
     "image": "https://picsum.photos/id/29/500/500.jpg",
-    "isNew": true
+    "isNew": true,
+    "subImages": [
+      "https://picsum.photos/id/29/500/500.jpg",
+      "https://picsum.photos/id/69/500/500.jpg",
+      "https://picsum.photos/id/109/500/500.jpg",
+      "https://picsum.photos/id/149/500/500.jpg"
+    ],
+    "productCode": "114309",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Qara",
+      "Material": "Alüminium/Metal",
+      "Qatlanma": "Bəli, portativ",
+      "Uyğunluq": "Telefon və planşetlər (4-13 düym)"
+    }
   },
   {
     "id": 30,
     "title": "Mini Hava Nəmləndirici (Humidifier), LED gecə işıqlı, sakit işləmə",
-    "price": 24.50,
+    "price": 24.5,
     "image": "https://picsum.photos/id/30/500/500.jpg",
-    "isNew": true
-  },{
-    "id": 31,
-    "title": "Endirimli: Simsiz Şaquli Siçan (Vertical Mouse), erqonomik, bilək ağrısı əleyhinə",
-    "price": 29.99,
-    "oldPrice": 45.00,
-    "image": "https://picsum.photos/id/31/500/500.jpg",
-    "isNew": false,
-    "onSale": true
-  },
-  {
-    "id": 32,
-    "title": "Endirimli: RGB Mexaniki Klaviatura Altlığı, böyük ölçülü, sukeçirməz",
-    "price": 17.50,
-    "oldPrice": 25.00,
-    "image": "https://picsum.photos/id/32/500/500.jpg",
     "isNew": true,
-    "onSale": true
-  },
-  {
-    "id": 33,
-    "title": "Endirimli: Type-C Portativ Monitor 15.6 düym, Full HD IPS, noutbuk və konsol üçün",
-    "price": 189.00,
-    "oldPrice": 240.00,
-    "image": "https://picsum.photos/id/33/500/500.jpg",
-    "isNew": true,
-    "onSale": true
-  },
-  {
-    "id": 34,
-    "title": "Endirimli: Bluetooth 5.3 Qulaqlıq (Earbuds), toxunma ilə idarəetmə, IPX5",
-    "price": 22.00,
-    "oldPrice": 39.99,
-    "image": "https://picsum.photos/id/26/600/800.jpg",
     "subImages": [
-      "https://picsum.photos/id/26/600/800.jpg",
-      "https://picsum.photos/id/21/600/800.jpg",
-      "https://picsum.photos/id/48/600/800.jpg",
-      "https://picsum.photos/id/60/600/800.jpg"
+      "https://picsum.photos/id/30/500/500.jpg",
+      "https://picsum.photos/id/70/500/500.jpg",
+      "https://picsum.photos/id/110/500/500.jpg",
+      "https://picsum.photos/id/150/500/500.jpg"
     ],
-    "isNew": false,
-    "onSale": true
-  },
-  {
-    "id": 35,
-    "title": "Pitaka Premium MaXafe Telefon Qabı (iPhone 15 Pro Max üçün)",
-    "price": 85.00,
-    "oldPrice": null,
-    "image": "https://picsum.photos/id/160/600/800.jpg",
-    "subImages": [
-      "https://picsum.photos/id/160/600/800.jpg",
-      "https://picsum.photos/id/364/600/800.jpg",
-      "https://picsum.photos/id/365/600/800.jpg",
-      "https://picsum.photos/id/370/600/800.jpg"
-    ],
-    "isNew": true,
-    "onSale": false
+    "productCode": "114310",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Ağ",
+      "Tutum": "300 ml",
+      "İşıq": "LED gecə işığı (7 rəng)",
+      "İşləmə müddəti": "6-8 saat",
+      "Səs səviyyəsi": "Sakit (<36dB)"
+    }
   }
 ]
