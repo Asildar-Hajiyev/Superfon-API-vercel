@@ -208,5 +208,61 @@
     "price": 24.50,
     "image": "https://picsum.photos/id/30/500/500.jpg",
     "isNew": true
+  },{
+    "id": 31,
+    "title": "Endirimli: Simsiz Şaquli Siçan (Vertical Mouse), erqonomik, bilək ağrısı əleyhinə",
+    "price": 29.99,
+    "oldPrice": 45.00,
+    "image": "https://picsum.photos/id/31/500/500.jpg",
+    "isNew": false,
+    "onSale": true
+  },
+  {
+    "id": 32,
+    "title": "Endirimli: RGB Mexaniki Klaviatura Altlığı, böyük ölçülü, sukeçirməz",
+    "price": 17.50,
+    "oldPrice": 25.00,
+    "image": "https://picsum.photos/id/32/500/500.jpg",
+    "isNew": true,
+    "onSale": true
+  },
+  {
+    "id": 33,
+    "title": "Endirimli: Type-C Portativ Monitor 15.6 düym, Full HD IPS, noutbuk və konsol üçün",
+    "price": 189.00,
+    "oldPrice": 240.00,
+    "image": "https://picsum.photos/id/33/500/500.jpg",
+    "isNew": true,
+    "onSale": true
+  },
+  {
+    "id": 34,
+    "title": "Endirimli: Bluetooth 5.3 Qulaqlıq (Earbuds), toxunma ilə idarəetmə, IPX5",
+    "price": 22.00,
+    "oldPrice": 39.99,
+    "image": "https://picsum.photos/id/26/600/800.jpg",
+    "subImages": [
+      "https://picsum.photos/id/26/600/800.jpg",
+      "https://picsum.photos/id/21/600/800.jpg",
+      "https://picsum.photos/id/48/600/800.jpg",
+      "https://picsum.photos/id/60/600/800.jpg"
+    ],
+    "isNew": false,
+    "onSale": true
+  },
+  {
+    "id": 35,
+    "title": "Pitaka Premium MaXafe Telefon Qabı (iPhone 15 Pro Max üçün)",
+    "price": 85.00,
+    "oldPrice": null,
+    "image": "https://picsum.photos/id/160/600/800.jpg",
+    "subImages": [
+      "https://picsum.photos/id/160/600/800.jpg",
+      "https://picsum.photos/id/364/600/800.jpg",
+      "https://picsum.photos/id/365/600/800.jpg",
+      "https://picsum.photos/id/370/600/800.jpg"
+    ],
+    "isNew": true,
+    "onSale": false
   }
 ]
