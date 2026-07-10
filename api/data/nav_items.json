@@ -1,0 +1,7 @@
+[
+  { "to": "/", "label": "Əsas səhifə", "Icon": "LuHouse" },
+  { "to": "/favorite", "label": "İstəklər", "Icon": "FaRegHeart" },
+  { "to": "/chat", "label": "Çat", "Icon": "PiChatTextLight" },
+  { "to": "/compare", "label": "Müqayisə", "Icon": "GiScales" },
+  { "to": "/account", "label": "Hesab", "Icon": "CiUser" }
+]

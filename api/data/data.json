@@ -1,0 +1,1131 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Bluetooth qulaqlıq, gurultu önləyici, uzun batareya ömrü",
+    "price": 45.99,
+    "image": "https://picsum.photos/id/1/500/500.jpg",
+    "category": "Audio və TV aksesuarlar",
+    "brand": "joyroom",
+    "isNew": true,
+    "onSale": false,
+    "productCode": "114281",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/1/500/500.jpg",
+      "https://picsum.photos/id/41/500/500.jpg",
+      "https://picsum.photos/id/81/500/500.jpg",
+      "https://picsum.photos/id/121/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Qara",
+      "Uyğunluq": "Universal (Bluetooth 5.0+)",
+      "Material": "Plastik + Deri təqlidi yastıqcıqlar",
+      "Gurultu önləyici (ANC)": "Var",
+      "Batareya ömrü": "30 saat",
+      "Çəki": "250 q"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Ağıllı saat Smart Watch, AMOLED ekran, ürək döyüntüsü ölçən",
+    "price": 89.9,
+    "image": "https://picsum.photos/id/2/500/500.jpg",
+    "category": "Saatlar",
+    "brand": "honor",
+    "isNew": true,
+    "onSale": false,
+    "productCode": "114282",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/2/500/500.jpg",
+      "https://picsum.photos/id/42/500/500.jpg",
+      "https://picsum.photos/id/82/500/500.jpg",
+      "https://picsum.photos/id/122/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Gümüşü",
+      "Uyğunluq": "Android/iOS",
+      "Ekran növü": "AMOLED",
+      "Su keçirməzlik": "IP68",
+      "Ürək döyüntüsü ölçən": "Var",
+      "Batareya ömrü": "7 gün"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Powerbank 20000 mAh, 22.5W sürətli şarj dəstəyi",
+    "price": 35,
+    "image": "https://picsum.photos/id/3/500/500.jpg",
+    "category": "Telefon Aksesuarları",
+    "brand": "joyroom",
+    "isNew": false,
+    "onSale": false,
+    "productCode": "114283",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/3/500/500.jpg",
+      "https://picsum.photos/id/43/500/500.jpg",
+      "https://picsum.photos/id/83/500/500.jpg",
+      "https://picsum.photos/id/123/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Qara",
+      "Tutum": "20000 mAh",
+      "Giriş": "Type-C, Micro USB",
+      "Çıxış": "22.5W (Sürətli şarj)",
+      "Port sayı": "2x USB-A, 1x Type-C",
+      "Çəki": "400 q"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Mexaniki Gaming klaviatura, RGB işıqlandırmalı, göy sviç",
+    "price": 65.5,
+    "image": "https://picsum.photos/id/4/500/500.jpg",
+    "category": "Digər",
+    "brand": "foni",
+    "isNew": true,
+    "onSale": false,
+    "productCode": "114284",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/4/500/500.jpg",
+      "https://picsum.photos/id/44/500/500.jpg",
+      "https://picsum.photos/id/84/500/500.jpg",
+      "https://picsum.photos/id/124/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Qara/RGB",
+      "Sviç növü": "Göy mexaniki sviç",
+      "Bağlantı": "USB (kabelli)",
+      "İşıqlandırma": "RGB, tənzimlənə bilən",
+      "Material": "ABS plastik + Alüminium panel"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Simsiz oyun siçanı (Gaming Mouse), 16000 DPI, erqonomik dizayn",
+    "price": 42,
+    "image": "https://picsum.photos/id/5/500/500.jpg",
+    "category": "Digər",
+    "brand": "foni",
+    "isNew": false,
+    "onSale": false,
+    "productCode": "114285",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/5/500/500.jpg",
+      "https://picsum.photos/id/45/500/500.jpg",
+      "https://picsum.photos/id/85/500/500.jpg",
+      "https://picsum.photos/id/125/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Qara",
+      "DPI": "16000 (tənzimlənə bilən)",
+      "Bağlantı": "2.4GHz simsiz",
+      "Batareya ömrü": "40 saat",
+      "Düymə sayı": "6"
+    }
+  },
+  {
+    "id": 6,
+    "title": "USB-C Hub Multiport Adapter 6-in-1, 4K HDMI, SD/TF Kart oxuyucu",
+    "price": 48.0,
+    "image": "https://picsum.photos/id/6/500/500.jpg",
+    "category": "Kompüter Aksesuarları",
+    "brand": "baseus",
+    "isNew": true,
+    "onSale": true,
+    "productCode": "114286",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/6/500/500.jpg",
+      "https://picsum.photos/id/46/500/500.jpg",
+      "https://picsum.photos/id/86/500/500.jpg",
+      "https://picsum.photos/id/126/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Boz",
+      "Giriş interfeysi": "Type-C",
+      "Portlar": "1x HDMI (4K@30Hz), 2x USB 3.0, 1x PD 100W, 1x SD, 1x TF",
+      "Material": "Alüminium ərintisi",
+      "Ötürmə sürəti": "5 Gbps"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Simsiz Şarj Cihazı 3-ü 1-də, iPhone, Apple Watch və AirPods üçün",
+    "price": 55.0,
+    "image": "https://picsum.photos/id/7/500/500.jpg",
+    "category": "Telefon Aksesuarları",
+    "brand": "ugreen",
+    "isNew": true,
+    "onSale": false,
+    "productCode": "114287",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/7/500/500.jpg",
+      "https://picsum.photos/id/47/500/500.jpg",
+      "https://picsum.photos/id/87/500/500.jpg",
+      "https://picsum.photos/id/127/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Ağ",
+      "Güc": "15W / 10W / 7.5W / 5W",
+      "Bağlantı növü": "Type-C",
+      "Uyğunluq": "MagSafe dəstəkli cihazlar",
+      "Qoruma sistemi": "Həddindən artıq gərginlik və qızma qorunması"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Portativ Bluetooth Spiker, IPX7 Suya davamlı, Güclü Bass",
+    "price": 79.99,
+    "image": "https://picsum.photos/id/8/500/500.jpg",
+    "category": "Audio və TV aksesuarlar",
+    "brand": "jbl",
+    "isNew": false,
+    "onSale": true,
+    "productCode": "114288",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/8/500/500.jpg",
+      "https://picsum.photos/id/48/500/500.jpg",
+      "https://picsum.photos/id/88/500/500.jpg",
+      "https://picsum.photos/id/128/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Göy",
+      "Bluetooth versiyası": "5.1",
+      "Çıxış gücü": "20W RMS",
+      "Batareya ömrü": "12 saat",
+      "Su keçirməzlik": "IPX7",
+      "Çəki": "540 q"
+    }
+  },
+  {
+    "id": 9,
+    "title": "Ortopedik Erqonomik Oturacaq Yastığı, Yaddaş Köpüklü (Memory Foam)",
+    "price": 32.5,
+    "image": "https://picsum.photos/id/9/500/500.jpg",
+    "category": "Digər",
+    "brand": "xiaomi",
+    "isNew": false,
+    "onSale": false,
+    "productCode": "114289",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/9/500/500.jpg",
+      "https://picsum.photos/id/49/500/500.jpg",
+      "https://picsum.photos/id/89/500/500.jpg",
+      "https://picsum.photos/id/129/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Tünd Boz",
+      "Material": "Memory foam (Yaddaş köpüyü)",
+      "Üzlük": "Nəfəs alan mesh parça, yuyula bilən",
+      "Ölçülər": "45 x 35 x 7 sm",
+      "Təyinat": "Ofis və avtomobil oturacaqları üçün"
+    }
+  },
+  {
+    "id": 10,
+    "title": "4K Ultra HD Digər Ekşn Kamera, 20MP, Sualtı Qutu ilə",
+    "price": 120.0,
+    "image": "https://picsum.photos/id/10/500/500.jpg",
+    "category": "Digər",
+    "brand": "foni",
+    "isNew": true,
+    "onSale": false,
+    "productCode": "114290",
+    "inStock": false,
+    "subImages": [
+      "https://picsum.photos/id/10/500/500.jpg",
+      "https://picsum.photos/id/50/500/500.jpg",
+      "https://picsum.photos/id/90/500/500.jpg",
+      "https://picsum.photos/id/130/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Qara",
+      "Video ayırdetməsi": "4K / 30fps",
+      "Şəkil keyfiyyəti": "20 MP",
+      "Ekran": "2.0 düym LCD sensorlu ekran",
+      "Suya davamlılıq": "Xüsusi keyslə 30 metrə qədər",
+      "Bağlantı": "Wi-Fi, HDMI"
+    }
+  },
+  {
+    "id": 11,
+    "title": "Studio Kondensator Mikrofonu, USB Bağlantı, Pop Filtr Daxil",
+    "price": 75.0,
+    "image": "https://picsum.photos/id/11/500/500.jpg",
+    "category": "Audio və TV aksesuarlar",
+    "brand": "joyroom",
+    "isNew": true,
+    "onSale": true,
+    "productCode": "114291",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/11/500/500.jpg",
+      "https://picsum.photos/id/51/500/500.jpg",
+      "https://picsum.photos/id/91/500/500.jpg",
+      "https://picsum.photos/id/131/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Qara",
+      "Qütb naxışı": "Kardioid",
+      "Tezlik diapazonu": "20Hz - 20kHz",
+      "Həssaslıq": "-34dB ± 2dB",
+      "Bağlantı tipi": "USB Tak-İşlət (Plug and Play)",
+      "Kabel uzunluğu": "1.8 m"
+    }
+  },
+  {
+    "id": 12,
+    "title": "LED RGB Masaüstü Smart Çıraq, Proqramla İdarəetmə, Musiqi Sinxronizasiyası",
+    "price": 39.9,
+    "image": "https://picsum.photos/id/12/500/500.jpg",
+    "category": "Digər",
+    "brand": "xiaomi",
+    "isNew": true,
+    "onSale": false,
+    "productCode": "114292",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/12/500/500.jpg",
+      "https://picsum.photos/id/52/500/500.jpg",
+      "https://picsum.photos/id/92/500/500.jpg",
+      "https://picsum.photos/id/132/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Ağ (RGB işıqlandırma)",
+      "Parlaqlıq": "Tənzimlənən (Dimmable)",
+      "İdarəetmə": "Mobil tətbiq (Tuya/SmartLife) və Pult",
+      "Giriş gücü": "12W",
+      "Ömrü": "25000 saat"
+    }
+  },
+  {
+    "id": 13,
+    "title": "Avtomobil Telefon Tutacağı, Avtomatik Sensorlu, 15W Simsiz Sürətli Şarj",
+    "price": 28.5,
+    "image": "https://picsum.photos/id/13/500/500.jpg",
+    "category": "Telefon Aksesuarları",
+    "brand": "baseus",
+    "isNew": false,
+    "onSale": true,
+    "productCode": "114293",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/13/500/500.jpg",
+      "https://picsum.photos/id/53/500/500.jpg",
+      "https://picsum.photos/id/93/500/500.jpg",
+      "https://picsum.photos/id/133/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Gümüşü-Qara",
+      "Quraşdırılma yeri": "Hava mənfəzi (Deflektor)",
+      "Sensor növü": "İnfraqırmızı induksiya",
+      "Çıxış gücü": "15W Sürətli Şarj",
+      "Material": "ABS + Şüşə"
+    }
+  },
+  {
+    "id": 14,
+    "title": "Böyük Ölçülü Gaming Mouse Pad, RGB İşıqlı, 800x300mm",
+    "price": 22.0,
+    "image": "https://picsum.photos/id/14/500/500.jpg",
+    "category": "Kompüter Aksesuarları",
+    "brand": "foni",
+    "isNew": false,
+    "onSale": false,
+    "productCode": "114294",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/14/500/500.jpg",
+      "https://picsum.photos/id/54/500/500.jpg",
+      "https://picsum.photos/id/94/500/500.jpg",
+      "https://picsum.photos/id/134/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Qara + RGB Kənarlar",
+      "Ölçü": "800 x 300 x 4 mm",
+      "Səth": "Mikro-fakturalı sukeçirməz parça",
+      "Alt səth": "Sürüşməyən rezin",
+      "Rejim sayı": "14 fərqli işıqlandırma rejimi"
+    }
+  },
+  {
+    "id": 15,
+    "title": "Notebook Soyuducu Altlq, 5 Soyutma Fanı, Mavi LED İşıqlı",
+    "price": 34.0,
+    "image": "https://picsum.photos/id/15/500/500.jpg",
+    "category": "Kompüter Aksesuarları",
+    "brand": "foni",
+    "isNew": false,
+    "onSale": false,
+    "productCode": "114295",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/15/500/500.jpg",
+      "https://picsum.photos/id/55/500/500.jpg",
+      "https://picsum.photos/id/95/500/500.jpg",
+      "https://picsum.photos/id/135/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Qara/Mavi LED",
+      "Fan sayı": "5 ədəd (1 böyük, 4 kiçik)",
+      "Uyğunluq": "12 - 17.3 düym notebooklar üçün",
+      "Səs səviyyəsi": "21 dBA (Səssiz)",
+      "USB port": "2x USB 2.0"
+    }
+  },
+  {
+    "id": 16,
+    "title": "Ağıllı İşıq Seli (Smart LED Strip) 5 Metr, Wi-Fi və Bluetooth",
+    "price": 25.0,
+    "image": "https://picsum.photos/id/16/500/500.jpg",
+    "category": "Digər",
+    "brand": "xiaomi",
+    "isNew": true,
+    "onSale": true,
+    "productCode": "114296",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/16/500/500.jpg",
+      "https://picsum.photos/id/56/500/500.jpg",
+      "https://picsum.photos/id/96/500/500.jpg",
+      "https://picsum.photos/id/136/500/500.jpg"
+    ],
+    "specifications": {
+      "Uzunluq": "5 metr",
+      "LED növü": "5050 RGB",
+      "Gərginlik": "12V",
+      "Ekosistem dəstəyi": "Google Assistant, Amazon Alexa",
+      "Kəsilə bilmə xüsusiyyəti": "Bəli (hər 10 sm-dən bir)"
+    }
+  },
+  {
+    "id": 17,
+    "title": "Simsiz Şaquli Erqonomik Siçan, Bilək Ağrısı Əleyhinə, 3 DPI Sürəti",
+    "price": 29.9,
+    "image": "https://picsum.photos/id/17/500/500.jpg",
+    "category": "Kompüter Aksesuarları",
+    "brand": "ugreen",
+    "isNew": true,
+    "onSale": false,
+    "productCode": "114297",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/17/500/500.jpg",
+      "https://picsum.photos/id/57/500/500.jpg",
+      "https://picsum.photos/id/97/500/500.jpg",
+      "https://picsum.photos/id/137/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Erqonomik Boz",
+      "DPI": "800 - 1200 - 1600 DPI",
+      "Bağlantı": "2.4GHz USB Qəbuledici",
+      "Batareya": "1x AA Batareya (Daxil deyil)",
+      "Düymə sayı": "5"
+    }
+  },
+  {
+    "id": 18,
+    "title": "Type-C - Lightning Kabel, MFi Sertifikatlı, 2 Metr Sürətli Şarj",
+    "price": 19.5,
+    "image": "https://picsum.photos/id/18/500/500.jpg",
+    "category": "Telefon Aksesuarları",
+    "brand": "ugreen",
+    "isNew": false,
+    "onSale": false,
+    "productCode": "114298",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/18/500/500.jpg",
+      "https://picsum.photos/id/58/500/500.jpg",
+      "https://picsum.photos/id/98/500/500.jpg",
+      "https://picsum.photos/id/138/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Ağ",
+      "Uzunluq": "2 metr",
+      "Maksimum güc": "3A / 20W PD",
+      "Material": "Neylon hörüklü möhkəm struktur",
+      "Sertifikat": "Apple MFi lisenziyalı"
+    }
+  },
+  {
+    "id": 19,
+    "title": "Smart Fitnes Qolbağı, Addımölçən, Yuxu Analizi, IP67",
+    "price": 39.0,
+    "image": "https://picsum.photos/id/19/500/500.jpg",
+    "category": "Saatlar",
+    "brand": "honor",
+    "isNew": false,
+    "onSale": true,
+    "productCode": "114299",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/19/500/500.jpg",
+      "https://picsum.photos/id/59/500/500.jpg",
+      "https://picsum.photos/id/99/500/500.jpg",
+      "https://picsum.photos/id/139/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Çəhrayı",
+      "Ekran": "0.96 düym TFT rəngli",
+      "İdman rejimləri": "Gəzinti, qaçış, velosiped, ipatlama",
+      "Sensorlar": "Ürək ritmi, qanda oksigen (SpO2)",
+      "Batareya tutumu": "90 mAh (10 gün gözləmə)"
+    }
+  },
+  {
+    "id": 20,
+    "title": "Avtomobil Audio Bluetooth Adapter, Aux Girişli Qəbuledici",
+    "price": 14.99,
+    "image": "https://picsum.photos/id/20/500/500.jpg",
+    "category": "Audio və TV aksesuarlar",
+    "brand": "baseus",
+    "isNew": true,
+    "onSale": false,
+    "productCode": "114300",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/20/500/500.jpg",
+      "https://picsum.photos/id/60/500/500.jpg",
+      "https://picsum.photos/id/100/500/500.jpg",
+      "https://picsum.photos/id/140/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Qara",
+      "Çıxış interfeysi": "3.5mm AUX jack",
+      "Bluetooth versiyası": "5.0",
+      "İş məsafəsi": "10 metr",
+      "Mikrofon": "Var (Zənglərə cavab vermək üçün)"
+    }
+  },
+  {
+    "id": 21,
+    "title": "45W Dual Port Mini Sürətli Ev Şarj Cihazı, GaN Texnologiyalı",
+    "price": 38.0,
+    "image": "https://picsum.photos/id/21/500/500.jpg",
+    "category": "Telefon Aksesuarları",
+    "brand": "baseus",
+    "isNew": true,
+    "onSale": false,
+    "productCode": "114301",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/21/500/500.jpg",
+      "https://picsum.photos/id/61/500/500.jpg",
+      "https://picsum.photos/id/101/500/500.jpg",
+      "https://picsum.photos/id/141/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Ağ",
+      "Texnologiya": "GaN (Gallium Nitride)",
+      "Portlar": "1x USB-C (PD 45W), 1x USB-A (QC 3.0)",
+      "Maksimum çıxış": "45W",
+      "Ölçü": "Ultra yığcam dizayn"
+    }
+  },
+  {
+    "id": 22,
+    "title": "Xarici Səs Kartı USB to 3.5mm Jack, Mikrofon və Qulaqlıq Girişi",
+    "price": 18.0,
+    "image": "https://picsum.photos/id/22/500/500.jpg",
+    "category": "Kompüter Aksesuarları",
+    "brand": "ugreen",
+    "isNew": false,
+    "onSale": false,
+    "productCode": "114302",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/22/500/500.jpg",
+      "https://picsum.photos/id/62/500/500.jpg",
+      "https://picsum.photos/id/102/500/500.jpg",
+      "https://picsum.photos/id/142/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Gümüşü",
+      "Giriş": "USB 2.0 Erkək",
+      "Çıxış": "1x 3.5mm audio (Qulaqlıq), 1x 3.5mm mono (Mikrofon)",
+      "Dəstəklənən sistemlər": "Windows, MacOS, Linux, PS4/PS5",
+      "Korpus materialı": "Alüminium"
+    }
+  },
+  {
+    "id": 23,
+    "title": "Ağıllı Ev Tərəzisi, Bluetooth ilə Bədən Analizi və Yağ Nisbəti Ölçən",
+    "price": 49.9,
+    "image": "https://picsum.photos/id/23/500/500.jpg",
+    "category": "Digər",
+    "brand": "xiaomi",
+    "isNew": true,
+    "onSale": true,
+    "productCode": "114303",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/23/500/500.jpg",
+      "https://picsum.photos/id/63/500/500.jpg",
+      "https://picsum.photos/id/103/500/500.jpg",
+      "https://picsum.photos/id/143/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Ağ",
+      "Ölçü diapazonu": "100q - 150kq",
+      "Metriklər": "Çəki, BMI, Yağ kütləsi, Əzələ kütləsi, Su faizi",
+      "Bağlantı": "Bluetooth 5.0",
+      "Tətbiq": "Mi Home / Zepp Life"
+    }
+  },
+  {
+    "id": 24,
+    "title": "Uşaqlar üçün Ağıllı Saat, GPS İzləmə, SOS Düyməsi, Səsli Zəng",
+    "price": 85.0,
+    "image": "https://picsum.photos/id/24/500/500.jpg",
+    "category": "Saatlar",
+    "brand": "honor",
+    "isNew": true,
+    "onSale": false,
+    "productCode": "114304",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/24/500/500.jpg",
+      "https://picsum.photos/id/64/500/500.jpg",
+      "https://picsum.photos/id/104/500/500.jpg",
+      "https://picsum.photos/id/144/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Mavi",
+      "Şəbəkə dəstəyi": "4G Lte Nano SIM",
+      "Yer təyin etmə": "GPS + LBS + Wi-Fi",
+      "Kamera": "0.3 MP daxili kamera",
+      "Batareya": "650 mAh"
+    }
+  },
+  {
+    "id": 25,
+    "title": "Peşəkar Simsiz Yaxa Mikrofonu, Type-C Portlu, Vlog və Canlı Yayım üçün",
+    "price": 45.0,
+    "image": "https://picsum.photos/id/25/500/500.jpg",
+    "category": "Audio və TV aksesuarlar",
+    "brand": "joyroom",
+    "isNew": true,
+    "onSale": false,
+    "productCode": "114305",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/25/500/500.jpg",
+      "https://picsum.photos/id/65/500/500.jpg",
+      "https://picsum.photos/id/105/500/500.jpg",
+      "https://picsum.photos/id/145/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Qara",
+      "Giriş": "Type-C (Həmçinin iPhone 15 və sonrakı modellər üçün)",
+      "Tezlik": "2.4GHz simsiz ötürmə",
+      "Məsafə": "20 metr maneəsiz",
+      "İşləmə müddəti": "6 saat"
+    }
+  },
+  {
+    "id": 26,
+    "title": "Yüksək Sürətli NVMe M.2 SSD Korpusu, USB 3.2 Gen2 10Gbps",
+    "price": 36.5,
+    "image": "https://picsum.photos/id/26/500/500.jpg",
+    "category": "Kompüter Aksesuarları",
+    "brand": "ugreen",
+    "isNew": false,
+    "onSale": true,
+    "productCode": "114306",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/26/500/500.jpg",
+      "https://picsum.photos/id/66/500/500.jpg",
+      "https://picsum.photos/id/106/500/500.jpg",
+      "https://picsum.photos/id/146/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Boz",
+      "Daxili interfeys": "M.2 M-Key / B&M-Key (NVMe və SATA)",
+      "Xarici interfeys": "Type-C (USB 3.2 Gen 2)",
+      "Maksimum sürət": "10 Gbps",
+      "Material": "Termal yastıqlı alüminium"
+    }
+  },
+  {
+    "id": 27,
+    "title": "Masaüstü Telefon və Planşet Stendi, Hündürlüyü Tənzimlənən Metal Konstruksiya",
+    "price": 16.0,
+    "image": "https://picsum.photos/id/27/500/500.jpg",
+    "category": "Telefon Aksesuarları",
+    "brand": "baseus",
+    "isNew": false,
+    "onSale": false,
+    "productCode": "114307",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/27/500/500.jpg",
+      "https://picsum.photos/id/67/500/500.jpg",
+      "https://picsum.photos/id/107/500/500.jpg",
+      "https://picsum.photos/id/147/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Qara",
+      "Uyğunluq": "4.7 - 12.9 düym arası bütün cihazlar",
+      "Bucaq tənzimlənməsi": "0° - 45°",
+      "Material": "Alüminium ərintisi + Sürüşməyən silikon altlıq",
+      "Çəki": "200 q"
+    }
+  },
+  {
+    "id": 28,
+    "title": "Premium Simsiz Qulaqlıq, Aktiv Gurultu Önləmə (ANC), Transparent Rejim",
+    "price": 115.0,
+    "image": "https://picsum.photos/id/28/500/500.jpg",
+    "category": "Audio və TV aksesuarlar",
+    "brand": "honor",
+    "isNew": true,
+    "onSale": false,
+    "productCode": "114308",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/28/500/500.jpg",
+      "https://picsum.photos/id/68/500/500.jpg",
+      "https://picsum.photos/id/108/500/500.jpg",
+      "https://picsum.photos/id/148/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Bəyaz",
+      "Gurultu azaltma dərəcəsi": "Maksimum 42dB ANC",
+      "Bluetooth": "5.3",
+      "Batareya ömrü (Keys daxil)": "32 saat",
+      "Suya davamlılıq": "IPX4 (Tər və yağış damcılarına qarşı)"
+    }
+  },
+  {
+    "id": 29,
+    "title": "Ağıllı Wi-Fi Rozetka (Smart Plug), Enerji Sərfiyyatı Hesablayan",
+    "price": 24.0,
+    "image": "https://picsum.photos/id/29/500/500.jpg",
+    "category": "Digər",
+    "brand": "xiaomi",
+    "isNew": false,
+    "onSale": true,
+    "productCode": "114309",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/29/500/500.jpg",
+      "https://picsum.photos/id/69/500/500.jpg",
+      "https://picsum.photos/id/109/500/500.jpg",
+      "https://picsum.photos/id/149/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Ağ",
+      "Maksimum cərəyan": "16A (Maks 3680W)",
+      "Simsiz şəbəkə": "Wi-Fi 2.4GHz",
+      "Funksiyalar": "Taymer, qrafik qurma, səsli idarəetmə",
+      "Tətbiq": "Mi Home / Tuya"
+    }
+  },
+  {
+    "id": 30,
+    "title": "Erqonomik Ofis və Gaming Kürək Dəstəyi, Avtomobil üçün Hava Keçirən Mesh",
+    "price": 19.9,
+    "image": "https://picsum.photos/id/30/500/500.jpg",
+    "category": "Digər",
+    "brand": "foni",
+    "isNew": false,
+    "onSale": false,
+    "productCode": "114310",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/30/500/500.jpg",
+      "https://picsum.photos/id/70/500/500.jpg",
+      "https://picsum.photos/id/110/500/500.jpg",
+      "https://picsum.photos/id/150/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Qara",
+      "Material": "Elastik polad məftil çərçivə + Neylon mesh parça",
+      "Masaj funksiyası": "Mərkəzdə masaj qabarcıqlı plastik lövhə",
+      "Ölçü": "40 x 39 sm",
+      "Bağlama növü": "Geniş elastik qayış"
+    }
+  },
+  {
+    "id": 31,
+    "title": "Mini Portativ Layihə (Projector), Full HD Dəstəkli, Ev Kinoteatrı",
+    "price": 145.0,
+    "image": "https://picsum.photos/id/31/500/500.jpg",
+    "category": "Audio və TV aksesuarlar",
+    "brand": "xiaomi",
+    "isNew": true,
+    "onSale": false,
+    "productCode": "114311",
+    "inStock": false,
+    "subImages": [
+      "https://picsum.photos/id/31/500/500.jpg",
+      "https://picsum.photos/id/71/500/500.jpg",
+      "https://picsum.photos/id/111/500/500.jpg",
+      "https://picsum.photos/id/151/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Ağ-Qara",
+      "Parlaqlıq": "150 ANSI Lümen",
+      "Ekran ölçüsü": "30 - 120 düym",
+      "Portlar": "HDMI, USB, Audio Jack, AV",
+      "Daxili Spiker": "Var (3W)"
+    }
+  },
+  {
+    "id": 32,
+    "title": "Yüksək Keyfiyyətli 4K HDMI Kabel 2.0v, 3 Metr, Qızılı Ucluqlar",
+    "price": 12.5,
+    "image": "https://picsum.photos/id/32/500/500.jpg",
+    "category": "Audio və TV aksesuarlar",
+    "brand": "ugreen",
+    "isNew": false,
+    "onSale": false,
+    "productCode": "114312",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/32/500/500.jpg",
+      "https://picsum.photos/id/72/500/500.jpg",
+      "https://picsum.photos/id/112/500/500.jpg",
+      "https://picsum.photos/id/152/500/500.jpg"
+    ],
+    "specifications": {
+      "Uzunluq": "3 metr",
+      "HDMI versiyası": "2.0 (4K @ 60Hz dəstəyi)",
+      "Ötürmə genişliyi": "18 Gbps",
+      "Material": "PVC + Alüminium folqa qoruyucu qat",
+      "Ucluq örtüyü": "24K Qızıl örtüklü konnektor"
+    }
+  },
+  {
+    "id": 33,
+    "title": "Rəqəmsal Multimetr Tester, LCD Ekranlı, Avtomatik Sönmə",
+    "price": 21.0,
+    "image": "https://picsum.photos/id/33/500/500.jpg",
+    "category": "Digər",
+    "brand": "foni",
+    "isNew": false,
+    "onSale": true,
+    "productCode": "114313",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/33/500/500.jpg",
+      "https://picsum.photos/id/73/500/500.jpg",
+      "https://picsum.photos/id/113/500/500.jpg",
+      "https://picsum.photos/id/153/500/500.jpg"
+    ],
+    "specifications": {
+      "Ölçmələr": "AC/DC Gərginlik, DC Cərəyan, Müqavimət, Diod, Batareya yoxlaması",
+      "Ekran": "Maksimum oxunuş 1999 olan LCD",
+      "Qoruma": "Həddindən artıq yüklənmə qorunması",
+      "Enerji": "9V Batareya (Daxildir)"
+    }
+  },
+  {
+    "id": 34,
+    "title": "Avtomobil Tozsoranı Portativ Simsiz, Yüksək Sorma Gücü 6000Pa",
+    "price": 42.0,
+    "image": "https://picsum.photos/id/34/500/500.jpg",
+    "category": "Digər",
+    "brand": "baseus",
+    "isNew": true,
+    "onSale": false,
+    "productCode": "114314",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/34/500/500.jpg",
+      "https://picsum.photos/id/74/500/500.jpg",
+      "https://picsum.photos/id/114/500/500.jpg",
+      "https://picsum.photos/id/154/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Tünd Yaşıl",
+      "Sorma gücü": "6000 Pa",
+      "Güc": "80W",
+      "Batareya": "2000mAh x 2",
+      "Filtr növü": "Yuyula bilən HEPA filtr",
+      "Şarj portu": "Type-C"
+    }
+  },
+  {
+    "id": 35,
+    "title": "100W Super Fast Charging Şarj Kabeli, Type-C to Type-C, LED Displeyli",
+    "price": 17.0,
+    "image": "https://picsum.photos/id/35/500/500.jpg",
+    "category": "Telefon Aksesuarları",
+    "brand": "joyroom",
+    "isNew": true,
+    "onSale": false,
+    "productCode": "114315",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/35/500/500.jpg",
+      "https://picsum.photos/id/75/500/500.jpg",
+      "https://picsum.photos/id/115/500/500.jpg",
+      "https://picsum.photos/id/155/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Qara",
+      "Maksimum güc": "100W (20V/5A) Power Delivery",
+      "Xüsusiyyət": "Real zamanlı vat (W) göstərən rəqəmsal LED ekran",
+      "Uzunluq": "1.2 metr",
+      "Material": "Sink ərintisi konnektor başlığı + Neylon hörüklü korpus"
+    }
+  },
+  {
+    "id": 36,
+    "title": "Kompüter üçün Web Kamera Full HD 1080P, Daxili Mikrofonlu, USB",
+    "price": 35.0,
+    "image": "https://picsum.photos/id/36/500/500.jpg",
+    "category": "Kompüter Aksesuarları",
+    "brand": "foni",
+    "isNew": false,
+    "onSale": true,
+    "productCode": "114316",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/36/500/500.jpg",
+      "https://picsum.photos/id/76/500/500.jpg",
+      "https://picsum.photos/id/116/500/500.jpg",
+      "https://picsum.photos/id/156/500/500.jpg"
+    ],
+    "specifications": {
+      "Matris növü": "CMOS",
+      "Ayırdetmə": "1920x1080 @ 30fps",
+      "Fokus": "Avtomatik fokus (Auto-focus)",
+      "Baxış bucağı": "90 dərəcə",
+      "Mikrofon": "Səs-küy azaldıcı daxili stereo mikrofon"
+    }
+  },
+  {
+    "id": 37,
+    "title": "Smart Səyahət Çantası, Su Keçirməz, 15.6 Notebook üçün USB Portlu",
+    "price": 58.0,
+    "image": "https://picsum.photos/id/37/500/500.jpg",
+    "category": "Digər",
+    "brand": "xiaomi",
+    "isNew": false,
+    "onSale": false,
+    "productCode": "114317",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/37/500/500.jpg",
+      "https://picsum.photos/id/77/500/500.jpg",
+      "https://picsum.photos/id/117/500/500.jpg",
+      "https://picsum.photos/id/157/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Tünd Boz",
+      "Kompüter bölməsi": "15.6 düym noutbuka qədər uyğun",
+      "Xarici port": "Daxili kabel ilə USB çıxışı (Powerbank qoşmaq üçün)",
+      "Material": "Oksford su keçirməyən parça",
+      "Həcm": "20-25 Litr"
+    }
+  },
+  {
+    "id": 38,
+    "title": "Ağıllı Saat Honor Choice Watch, 1.95 IPS Ekran, Bluetooth Zəng",
+    "price": 109.0,
+    "image": "https://picsum.photos/id/38/500/500.jpg",
+    "category": "Saatlar",
+    "brand": "honor",
+    "isNew": true,
+    "onSale": false,
+    "productCode": "114318",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/38/500/500.jpg",
+      "https://picsum.photos/id/78/500/500.jpg",
+      "https://picsum.photos/id/118/500/500.jpg",
+      "https://picsum.photos/id/158/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Qara",
+      "Ekran ölçüsü": "1.95 düym",
+      "Mikrofon və Spiker": "Var (Saat vasitəsilə danışıq dəstəyi)",
+      "Peyk naviqasiyası": "Daxili GPS dəstəyi",
+      "Batareya": "Müntəzəm istifadə ilə 12 günə qədər"
+    }
+  },
+  {
+    "id": 39,
+    "title": "Simsiz Şaquli Tozsoran (Vacuum Cleaner), Simsiz, Yüngül Dizayn",
+    "price": 185.0,
+    "image": "https://picsum.photos/id/39/500/500.jpg",
+    "category": "Digər",
+    "brand": "xiaomi",
+    "isNew": true,
+    "onSale": true,
+    "productCode": "114319",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/39/500/500.jpg",
+      "https://picsum.photos/id/79/500/500.jpg",
+      "https://picsum.photos/id/119/500/500.jpg",
+      "https://picsum.photos/id/159/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Ağ",
+      "Sorma gücü": "17000 Pa",
+      "Konteyner həcmi": "0.5 L",
+      "Filtrasiya": "3 qatlı HEPA filtrasiya sistemi",
+      "İşləmə vaxtı": "Eko rejimdə 45 dəqiqəyə qədər"
+    }
+  },
+  {
+    "id": 40,
+    "title": "Masaüstü Kondensator Mikrofonu, RGB İşıqlı, Səs tənzimləyici düyməli",
+    "price": 54.0,
+    "image": "https://picsum.photos/id/40/500/500.jpg",
+    "category": "Audio və TV aksesuarlar",
+    "brand": "foni",
+    "isNew": false,
+    "onSale": false,
+    "productCode": "114320",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/40/500/500.jpg",
+      "https://picsum.photos/id/80/500/500.jpg",
+      "https://picsum.photos/id/120/500/500.jpg",
+      "https://picsum.photos/id/160/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Qara + Dinamik RGB",
+      "Mute (Səsi bağlama) funksiyası": "Sensorlu üst düymə",
+      "Qoşulma": "Type-C-dən USB-yə kabel",
+      "Təyinat": "Gaming, Yayım (Streaming), Podkast",
+      "Altlıq": "Sarsıntıya qarşı şok-munt (Shock mount)"
+    }
+  },
+  {
+    "id": 41,
+    "title": "Dual-Band Wi-Fi Router AC1200, 4 Xarici Antenna, Yüksək Sürət",
+    "price": 39.0,
+    "image": "https://picsum.photos/id/41/500/500.jpg",
+    "category": "Kompüter Aksesuarları",
+    "brand": "xiaomi",
+    "isNew": false,
+    "onSale": false,
+    "productCode": "114321",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/41/500/500.jpg",
+      "https://picsum.photos/id/81/500/500.jpg",
+      "https://picsum.photos/id/121/500/500.jpg",
+      "https://picsum.photos/id/161/500/500.jpg"
+    ],
+    "specifications": {
+      "Rəng": "Ağ",
+      "Şəbəkə tezliyi": "2.4GHz (300Mbps) və 5GHz (867Mbps)",
+      "Anten sayı": "4 ədəd 5dBi yüksək güclü antenna",
+      "Portlar": "1x WAN (10/100Mbps), 2x LAN (10/100Mbps)",
+      "Təhlükəsizlik": "WPA-PSK/WPA2-PSK şifrləmə"
+    }
+  },
+  {
+    "id": 42,
+    "title": "Avtomobil FM Transmitter, Bluetooth 5.0, QC 3.0 Sürətli Şarj və Səs Ucaldan",
+    "price": 22.5,
+    "image": "https://picsum.photos/id/42/500/500.jpg",
+    "category": "Telefon Aksesuarları",
+    "brand": "baseus",
+    "isNew": true,
+    "onSale": true,
+    "productCode": "114322",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/42/500/500.jpg",
+      "https://picsum.photos/id/82/500/500.jpg",
+      "https://picsum.photos/id/122/500/500.jpg",
+      "https://picsum.photos/id/162/500/500.jpg"
+    ],
+    "specifications": {
+      "Giriş gərginliyi": "DC 12V-24V",
+      "Portlar": "1x Quick Charge 3.0, 1x USB Fləş kart oxuyucu portu",
+      "Formatlar": "MP3, WMA, WAV, FLAC",
+      "Əlavə xüsusiyyət": "Batareya gərginliyini göstərən LED displey"
+    }
+  },
+  {
+    "id": 43,
+    "title": "Qulaqlıq təmizləyici qələm dəsti, AirPods və digər qulaqlıqlar üçün",
+    "price": 7.0,
+    "image": "https://picsum.photos/id/43/500/500.jpg",
+    "category": "Digər",
+    "brand": "joyroom",
+    "isNew": false,
+    "onSale": false,
+    "productCode": "114323",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/43/500/500.jpg",
+      "https://picsum.photos/id/83/500/500.jpg",
+      "https://picsum.photos/id/123/500/500.jpg",
+      "https://picsum.photos/id/163/500/500.jpg"
+    ],
+    "specifications": {
+      "Dizayn": "3-ü 1-də qələm formalı struktur",
+      "Ucluqlar": "Metal qələm ucluğu (çətin kir üçün), Yüksək sıxlıqlı fırça, Flok qubka",
+      "Material": "ABS plastik",
+      "Çəki": "15 q"
+    }
+  },
+  {
+    "id": 44,
+    "title": "Simsiz Qapı Zəngi, Wi-Fi Kamera ilə, Gecə Baxışı və Səsli Cavab",
+    "price": 68.0,
+    "image": "https://picsum.photos/id/44/500/500.jpg",
+    "category": "Digər",
+    "brand": "xiaomi",
+    "isNew": true,
+    "onSale": false,
+    "productCode": "114324",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/44/500/500.jpg",
+      "https://picsum.photos/id/84/500/500.jpg",
+      "https://picsum.photos/id/124/500/500.jpg",
+      "https://picsum.photos/id/164/500/500.jpg"
+    ],
+    "specifications": {
+      "Kamera": "720P HD, 100° geniş bucaq",
+      "Gecə baxışı": "İnfraqırmızı LED işıqlar (Avtomatik)",
+      "Bağlantı": "2.4GHz Wi-Fi",
+      "Enerji təminatı": "Daxili təkrar şarj edilə bilən litium batareya",
+      "Tətbiq bildirişi": "Hərəkət aşkar edildikdə smartfona ani bildiriş"
+    }
+  },
+  {
+    "id": 45,
+    "title": "Metal Korpuslu Sürətli Fləş Kart 64GB, USB 3.0 və Type-C Dual Port",
+    "price": 26.0,
+    "image": "https://picsum.photos/id/45/500/500.jpg",
+    "category": "Kompüter Aksesuarları",
+    "brand": "ugreen",
+    "isNew": true,
+    "onSale": true,
+    "productCode": "114325",
+    "inStock": true,
+    "subImages": [
+      "https://picsum.photos/id/45/500/500.jpg",
+      "https://picsum.photos/id/85/500/500.jpg",
+      "https://picsum.photos/id/125/500/500.jpg",
+      "https://picsum.photos/id/165/500/500.jpg"
+    ],
+    "specifications": {
+      "Tutum": "64 GB",
+      "İnterfeys": "USB 3.0 + Type-C (OTG dəstəkli)",
+      "Oxuma sürəti": "Maksimum 130 MB/s",
+      "Korpus": "360 dərəcə fırlanan metal dizayn",
+      "Uyğunluq": "Smartfonlar, Planşetlər, Noutbuklar, PC"
+    }
+  }
+]

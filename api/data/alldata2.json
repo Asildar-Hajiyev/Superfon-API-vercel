@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Bluetooth qulaqlıq, gurultu önləyici, uzun batareya ömrü",
+    "price": 45.99,
+    "image": "https://picsum.photos/id/101/500/500.jpg",
+    "isNew": true,
+    "subImages": [
+      "https://picsum.photos/id/101/500/500.jpg",
+      "https://picsum.photos/id/102/500/500.jpg",
+      "https://picsum.photos/id/103/500/500.jpg"
+    ],
+    "productCode": "114281",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Qara",
+      "Uyğunluq": "Universal (Bluetooth 5.0+)",
+      "Material": "Plastik + Dəri təqlidi yastıqcıqlar",
+      "Gurultu önləyici (ANC)": "Var",
+      "Batareya ömrü": "30 saat",
+      "Çəki": "250 q"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Smartwatch, fitness tracker, əl saatı",
+    "price": 89.99,
+    "image": "https://picsum.photos/id/201/500/500.jpg",
+    "isNew": true,
+    "subImages": [
+      "https://picsum.photos/id/201/500/500.jpg",
+      "https://picsum.photos/id/202/500/500.jpg"
+    ],
+    "productCode": "114282",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Gümüşü",
+      "Uyğunluq": "Android/iOS",
+      "Ekran növü": "AMOLED",
+      "Su keçirməzlik": "IP68",
+      "Ürək döyüntüsü ölçən": "Var",
+      "Batareya ömrü": "7 gün"
+    }
+  },
+  {
+    "id": 3,
+    "title": "USB-C sürətli şarj cihazı, 65W güc",
+    "price": 29.99,
+    "image": "https://picsum.photos/id/301/500/500.jpg",
+    "isNew": false,
+    "subImages": [
+      "https://picsum.photos/id/301/500/500.jpg",
+      "https://picsum.photos/id/302/500/500.jpg",
+      "https://picsum.photos/id/303/500/500.jpg",
+      "https://picsum.photos/id/304/500/500.jpg",
+      "https://picsum.photos/id/305/500/500.jpg"
+    ],
+    "productCode": "114283",
+    "inStock": true,
+    "onSale": true,
+    "specifications": {
+      "Rəng": "Ağ",
+      "Güc": "65W",
+      "Port sayı": "1x USB-C",
+      "Sürətli şarj": "Power Delivery (PD)",
+      "Uyğunluq": "Noutbuk, Telefon, Planşet"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Portativ bluetooth dinamik, stereo səs",
+    "price": 34.99,
+    "image": "https://picsum.photos/id/401/500/500.jpg",
+    "isNew": true,
+    "subImages": [
+      "https://picsum.photos/id/401/500/500.jpg",
+      "https://picsum.photos/id/402/500/500.jpg"
+    ],
+    "productCode": "114284",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Göy",
+      "Bağlantı": "Bluetooth 5.0",
+      "Səs sistemi": "Stereo",
+      "Batareya ömrü": "10 saat",
+      "Su keçirməzlik": "IPX5"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Kabelsiz şarj yastığı, Qi texnologiyası",
+    "price": 19.99,
+    "image": "https://picsum.photos/id/501/500/500.jpg",
+    "isNew": false,
+    "subImages": [
+      "https://picsum.photos/id/501/500/500.jpg",
+      "https://picsum.photos/id/502/500/500.jpg",
+      "https://picsum.photos/id/503/500/500.jpg"
+    ],
+    "productCode": "114285",
+    "inStock": false,
+    "specifications": {
+      "Rəng": "Qara",
+      "Texnologiya": "Qi Wireless",
+      "Çıxış gücü": "15W",
+      "Material": "ABS plastik + Rezin altlıq",
+      "Qoruma": "Həddindən artıq gərginlik qoruması"
+    }
+  },
+  {
+    "id": 6,
+    "title": "HD web kamera, kripto konferans üçün",
+    "price": 56.99,
+    "image": "https://picsum.photos/id/601/500/500.jpg",
+    "isNew": true,
+    "subImages": [
+      "https://picsum.photos/id/601/500/500.jpg",
+      "https://picsum.photos/id/602/500/500.jpg",
+      "https://picsum.photos/id/603/500/500.jpg",
+      "https://picsum.photos/id/604/500/500.jpg"
+    ],
+    "productCode": "114286",
+    "inStock": true,
+    "specifications": {
+      "Çözünürlük": "1080p Full HD",
+      "Mikrofon": "Daxili, səs-küy filtrli",
+      "Bağlantı": "USB Plug & Play",
+      "Görüş bucağı": "90°",
+      "Kadr tezliyi": "30 fps"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Mekanik klaviatura, RGB işıqlandırması",
+    "price": 79.99,
+    "image": "https://picsum.photos/id/701/500/500.jpg",
+    "isNew": false,
+    "subImages": [
+      "https://picsum.photos/id/701/500/500.jpg",
+      "https://picsum.photos/id/702/500/500.jpg"
+    ],
+    "productCode": "114287",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Qara/RGB",
+      "Sviç növü": "Qırmızı mexaniki sviç",
+      "Bağlantı": "USB (kabelli)",
+      "İşıqlandırma": "RGB, tənzimlənə bilən",
+      "Material": "Alüminium panel + ABS"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Siçan, ergonomik dizayn, 2.4GHz",
+    "price": 24.99,
+    "image": "https://picsum.photos/id/801/500/500.jpg",
+    "isNew": true,
+    "subImages": [
+      "https://picsum.photos/id/801/500/500.jpg",
+      "https://picsum.photos/id/802/500/500.jpg",
+      "https://picsum.photos/id/803/500/500.jpg",
+      "https://picsum.photos/id/804/500/500.jpg",
+      "https://picsum.photos/id/805/500/500.jpg"
+    ],
+    "productCode": "114288",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Boz",
+      "DPI": "3200 (tənzimlənə bilən)",
+      "Bağlantı": "2.4GHz simsiz",
+      "Düymə sayı": "5",
+      "Ergonomika": "Bəli, sağ əl üçün"
+    }
+  },
+  {
+    "id": 9,
+    "title": "Təkabülü monitor 27 inç, 144Hz yeniləmə",
+    "price": 199.99,
+    "image": "https://picsum.photos/id/901/500/500.jpg",
+    "isNew": false,
+    "subImages": [
+      "https://picsum.photos/id/901/500/500.jpg",
+      "https://picsum.photos/id/902/500/500.jpg"
+    ],
+    "productCode": "114289",
+    "inStock": true,
+    "onSale": true,
+    "specifications": {
+      "Ekran ölçüsü": "27 düym",
+      "Yeniləmə tezliyi": "144Hz",
+      "Panel növü": "VA (Kavisli/Təkabülü)",
+      "Çözünürlük": "1920x1080 (Full HD)",
+      "Girişlər": "HDMI, DisplayPort"
+    }
+  },
+  {
+    "id": 10,
+    "title": "Laptop stand, alüminium, cəlalı",
+    "price": 39.99,
+    "image": "https://picsum.photos/id/110/500/500.jpg",
+    "isNew": true,
+    "subImages": [
+      "https://picsum.photos/id/110/500/500.jpg",
+      "https://picsum.photos/id/111/500/500.jpg",
+      "https://picsum.photos/id/112/500/500.jpg"
+    ],
+    "productCode": "114290",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Gümüşü",
+      "Material": "Premium Alüminium",
+      "Hündürlük tənzimlənməsi": "Çoxsəviyyəli",
+      "Uyğunluq": "11-16 düym noutbuklar",
+      "Qatlanma": "Bəli"
+    }
+  },
+  {
+    "id": 11,
+    "title": "Power bank 20000mAh, sürətli şarj",
+    "price": 35.99,
+    "image": "https://picsum.photos/id/120/500/500.jpg",
+    "isNew": false,
+    "subImages": [
+      "https://picsum.photos/id/120/500/500.jpg",
+      "https://picsum.photos/id/121/500/500.jpg"
+    ],
+    "productCode": "114291",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Ağ",
+      "Tutum": "20000 mAh",
+      "Giriş": "Type-C, Micro USB",
+      "Çıxış": "22.5W (Sürətli şarj)",
+      "Çəki": "420 q"
+    }
+  },
+  {
+    "id": 12,
+    "title": "USB hub, 7 portlu, yüksək sürət",
+    "price": 22.99,
+    "image": "https://picsum.photos/id/130/500/500.jpg",
+    "isNew": true,
+    "subImages": [
+      "https://picsum.photos/id/130/500/500.jpg",
+      "https://picsum.photos/id/131/500/500.jpg",
+      "https://picsum.photos/id/132/500/500.jpg",
+      "https://picsum.photos/id/133/500/500.jpg",
+      "https://picsum.photos/id/134/500/500.jpg"
+    ],
+    "productCode": "114292",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Qara",
+      "Port sayı": "7x USB 3.0",
+      "Ötürmə sürəti": "5 Gbps",
+      "Material": "ABS Plastik",
+      "Əlavə güc girişi": "Var (5V)"
+    }
+  },
+  {
+    "id": 13,
+    "title": "Telefon tutacağı, avtomobil üçün",
+    "price": 16.99,
+    "image": "https://picsum.photos/id/140/500/500.jpg",
+    "isNew": false,
+    "subImages": [
+      "https://picsum.photos/id/140/500/500.jpg",
+      "https://picsum.photos/id/141/500/500.jpg"
+    ],
+    "productCode": "114293",
+    "inStock": false,
+    "specifications": {
+      "Rəng": "Qara",
+      "Bağlantı növü": "Vakuumlu / Sıxaclı",
+      "Fırlanma": "360 dərəcə",
+      "Quraşdırma yeri": "Masa / Şüşə / Panel"
+    }
+  },
+  {
+    "id": 14,
+    "title": "Sərt disk çantası, suya davamlı",
+    "price": 28.99,
+    "image": "https://picsum.photos/id/150/500/500.jpg",
+    "isNew": true,
+    "subImages": [
+      "https://picsum.photos/id/150/500/500.jpg",
+      "https://picsum.photos/id/151/500/500.jpg",
+      "https://picsum.photos/id/152/500/500.jpg"
+    ],
+    "productCode": "114294",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Tünd Boz",
+      "Material": "Suya davamlı EVA / Qumaş",
+      "Uyğunluq": "2.5 düym xarici disklər üçün",
+      "Daxili cib": "Var (Kabel üçün xüsusi mesh cib)"
+    }
+  },
+  {
+    "id": 15,
+    "title": "Kabel organizeri, masaüstü üçün",
+    "price": 12.99,
+    "image": "https://picsum.photos/id/160/500/500.jpg",
+    "isNew": false,
+    "subImages": [
+      "https://picsum.photos/id/160/500/500.jpg"
+    ],
+    "productCode": "114295",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Qara",
+      "Material": "Yumşaq Silikon",
+      "Kanal sayısı": "5 kanallı",
+      "Arxa səth": "3M güclü yapışqan"
+    }
+  },
+  {
+    "id": 16,
+    "title": "LED masası işığı, gözləri qoruyur",
+    "price": 42.99,
+    "image": "https://picsum.photos/id/170/500/500.jpg",
+    "isNew": true,
+    "subImages": [
+      "https://picsum.photos/id/170/500/500.jpg",
+      "https://picsum.photos/id/171/500/500.jpg",
+      "https://picsum.photos/id/172/500/500.jpg",
+      "https://picsum.photos/id/173/500/500.jpg"
+    ],
+    "productCode": "114296",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Ağ",
+      "İşıq rejimləri": "3 rəng tonu (İsti, Neytral, Soyuq)",
+      "Parlaqlıq": "Dimmable (Tənzimlənən)",
+      "Taymer funksiyası": "Var (45 dəq)",
+      "Güc mənbəyi": "USB / Batareya"
+    }
+  },
+  {
+    "id": 17,
+    "title": "Klaviatura qoruyucu, silikon materialı",
+    "price": 14.99,
+    "image": "https://picsum.photos/id/180/500/500.jpg",
+    "isNew": false,
+    "subImages": [
+      "https://picsum.photos/id/180/500/500.jpg",
+      "https://picsum.photos/id/181/500/500.jpg"
+    ],
+    "productCode": "114297",
+    "inStock": true,
+    "specifications": {
+      "Rəng": "Şəffaf",
+      "Material": "Ultra-nazik Silikon",
+      "Qoruma": "Toz, Su və ləkələrə qarşı",
+      "Yuyula bilmə": "Bəli"
+    }
+  },
+  {
+    "id": 18,
+    "title": "Monitor ARM, əyilə biləsi, hündürlük ayarlanabilir",
+    "price": 65.99,
+    "image": "https://picsum.photos/id/190/500/500.jpg",
+    "isNew": true,
+    "subImages": [
+      "https://picsum.photos/id/190/500/500.jpg",
+      "https://picsum.photos/id/191/500/500.jpg",
+      "https://picsum.photos/id/192/500/500.jpg",
+      "https://picsum.photos/id/193/500/500.jpg",
+      "https://picsum.photos/id/194/500/500.jpg"
+    ],
+    "productCode": "114298",
+    "inStock": true,
+    "specifications": {
+      "Material": "Ağır xidmət poladı / Alüminium",
+      "Uyğunluq": "13-27 düym monitorlar",
+      "Maksimum yük": "8 kq",
+      "VESA standartı": "75x75, 100x100 mm",
+      "Hərəkət": "360° fırlanma, +90°/-45° əyilmə"
+    }
+  },
+  {
+    "id": 19,
+    "title": "Səs səviyyəsini tənzimləyən mikrofon",
+    "price": 48.99,
+    "image": "https://picsum.photos/id/210/500/500.jpg",
+    "isNew": false,
+    "subImages": [
+      "https://picsum.photos/id/210/500/500.jpg",
+      "https://picsum.photos/id/211/500/500.jpg"
+    ],
+    "productCode": "114299",
+    "inStock": true,
+    "onSale": true,
+    "specifications": {
+      "Rəng": "Mat Qara",
+      "Bağlantı": "USB-A / Type-C",
+      "Diaframa növü": "Kondensator",
+      "Səs tənzimlənməsi": "Fiziki potansiometr (Gain control)",
+      "Mute düyməsi": "Var (Toxunma ilə)"
+    }
+  },
+  {
+    "id": 100,
+    "title": "Kompüter xüsusiyyətləri haqqında məlumat layihəsi",
+    "price": 99.99,
+    "image": "https://picsum.photos/id/220/500/500.jpg",
+    "isNew": true,
+    "subImages": [
+      "https://picsum.photos/id/220/500/500.jpg",
+      "https://picsum.photos/id/221/500/500.jpg",
+      "https://picsum.photos/id/222/500/500.jpg"
+    ],
+    "productCode": "114300",
+    "inStock": true,
+    "specifications": {
+      "Format": "Rəqəmsal Layihə (Source Code + Sənədləşmə)",
+      "Dil": "Azərbaycan dili",
+      "Platforma": "Veb əsaslı (React / Node.js)",
+      "Məzmun": "PC komponentlərinin geniş verilənlər bazası"
+    }
+  }
+]
